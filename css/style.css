@@ -35,9 +35,12 @@ h3 {
   text-align: center;
   font-size: 21px;
 }
+.logo { margin-top: 25px;
+
+}
 
 .footer {
-  color: white;
+  color: gray;
   font-family: verdana;
   text-align: right;
 }
