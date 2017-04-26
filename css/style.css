@@ -7,10 +7,28 @@ body {
 
 h1  {
   font-size: 50px;
+  font-weight: normal;
 }
 
 .download a {
   color: aquamarine;
   font-size: 16px;
+}
 
+h2  {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.description {
+  color: gray;
+  font-size: 21px;
+}
+
+.logo {
+  padding: 30px;
+}
+
+.copyright {
+  text-align: right;
 }
